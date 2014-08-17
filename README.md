@@ -17,5 +17,5 @@ In a glimpse, you would be able to see:
 
 This Python notebook will enable you to generate an elevation map optimized for your area.
 
-You can visualize this notebook at this url:
-http://nbviewer.ipython.org/github/vins31/gis-experiments/tree/master/Altitude%20roads.ipynb
+You can visualize this notebook here:
+http://nbviewer.ipython.org/github/vins31/gis-experiments/blob/master/Altitude%20roads.ipynb
